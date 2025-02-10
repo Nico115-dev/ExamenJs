@@ -1,142 +1,237 @@
-{"Marvel": [
-    {
-      "nombre": "Spider-Man",
-      "origen": "Peter Parker, Nueva York",
-      "poderes": ["Agilidad sobrehumana", "Sentido arácnido", "Fuerza aumentada", "Habilidad para trepar paredes"],
-      "habilidades": ["Lucha cuerpo a cuerpo", "Tecnología (crea sus propios lanzatelarañas)"],
-      "historia_comics": "Spider-Man debutó en 'Amazing Fantasy #15' en 1962, creado por Stan Lee y Steve Ditko.",
-      "apariciones_cine": [
-        "Spider-Man (2002)",
-        "Spider-Man: No Way Home (2021)",
-        "Avengers: Endgame (2019)"
-      ],
-      "curiosidades": ["Se considera uno de los superhéroes más populares de todos los tiempos", "Ha tenido múltiples adaptaciones cinematográficas y series animadas"],
-      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png"
-    },
+{
+  "Marvel": [
     {
       "nombre": "Iron Man",
       "origen": "Tony Stark, Long Island, Nueva York",
-      "poderes": ["Inteligencia avanzada", "Tecnología de armaduras de alta gama", "Control de energía"],
-      "habilidades": ["Ingeniería avanzada", "Estratega"],
+      "imagen": "https://applescoop.org/image/wallpapers/iphone/tony-stark-iron-man-movie-marvel-disney-red-16-10-2024-1729107684-hd-wallpaper.jpg",
+      "poderes": [
+        "Inteligencia avanzada",
+        "Tecnología de armaduras de alta gama",
+        "Control de energía"
+      ],
+      "habilidades": [
+        "Ingeniería avanzada",
+        "Estratega"
+      ],
       "historia_comics": "Iron Man apareció por primera vez en 'Tales of Suspense #39' en 1963, creado por Stan Lee, Larry Lieber, Don Heck y Jack Kirby.",
       "apariciones_cine": [
         "Iron Man (2008)",
         "Avengers: Infinity War (2018)",
         "Avengers: Endgame (2019)"
       ],
-      "curiosidades": ["Es uno de los fundadores de los Avengers", "Robert Downey Jr. popularizó el personaje en el MCU"],
-      "imagen": "https://applescoop.org/image/wallpapers/iphone/tony-stark-iron-man-movie-marvel-disney-red-16-10-2024-1729107684-hd-wallpaper.jpg"
+      "curiosidades": [
+        "Es uno de los fundadores de los Avengers",
+        "Robert Downey Jr. popularizó el personaje en el MCU"
+      ],
+      "id": 2
     },
     {
+      "id": 3,
       "nombre": "Captain America",
       "origen": "Steve Rogers, Brooklyn, Nueva York",
-      "poderes": ["Superfuerza", "Reflejos mejorados", "Curación acelerada"],
-      "habilidades": ["Lucha cuerpo a cuerpo", "Estratega militar", "Maestro en el uso del escudo"],
+      "poderes": [
+        "Superfuerza",
+        "Reflejos mejorados",
+        "Curación acelerada"
+      ],
+      "habilidades": [
+        "Lucha cuerpo a cuerpo",
+        "Estratega militar",
+        "Maestro en el uso del escudo"
+      ],
       "historia_comics": "Captain America debutó en 'Captain America Comics #1' en 1941, creado por Joe Simon y Jack Kirby.",
       "apariciones_cine": [
         "Captain America: The First Avenger (2011)",
         "Avengers: Endgame (2019)",
         "Captain America: Civil War (2016)"
       ],
-      "curiosidades": ["Es conocido por su lealtad y su firme moralidad", "Ha sido un símbolo patriótico durante décadas"],
+      "curiosidades": [
+        "Es conocido por su lealtad y su firme moralidad",
+        "Ha sido un símbolo patriótico durante décadas"
+      ],
       "imagen": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg"
     },
     {
+      "id": 4,
       "nombre": "Thor",
       "origen": "Asgard (hijo de Odin)",
-      "poderes": ["Control del trueno", "Fuerza sobrehumana", "Vuelo (con Mjolnir)"],
-      "habilidades": ["Lucha con martillo", "Liderazgo", "Inmunidad a ciertos tipos de daño"],
+      "poderes": [
+        "Control del trueno",
+        "Fuerza sobrehumana",
+        "Vuelo (con Mjolnir)"
+      ],
+      "habilidades": [
+        "Lucha con martillo",
+        "Liderazgo",
+        "Inmunidad a ciertos tipos de daño"
+      ],
       "historia_comics": "Thor debutó en 'Journey into Mystery #83' en 1962, creado por Stan Lee, Larry Lieber, y Jack Kirby.",
       "apariciones_cine": [
         "Thor (2011)",
         "Thor: Ragnarok (2017)",
         "Avengers: Endgame (2019)"
       ],
-      "curiosidades": ["Thor es un dios basado en la mitología nórdica", "Su martillo, Mjolnir, es uno de los objetos más poderosos del universo Marvel"],
+      "curiosidades": [
+        "Thor es un dios basado en la mitología nórdica",
+        "Su martillo, Mjolnir, es uno de los objetos más poderosos del universo Marvel"
+      ],
       "imagen": "https://external-preview.redd.it/marvel-studios-reportedly-wants-thor-5-to-have-a-darker-v0-1yr6_rn59oeYd7he7NcWXGT36OhyO7ZqlIq9FGZc2sk.jpg?auto=webp&s=f07256e1d7b9c19c82c5a569fee71416542b021e"
     },
     {
+      "id": 5,
       "nombre": "Hulk",
       "origen": "Bruce Banner, Nueva York",
-      "poderes": ["Fuerza ilimitada", "Regeneración acelerada", "Resistencia extrema"],
-      "habilidades": ["Lucha destructiva", "Super resistencia", "Enorme resistencia a daño"],
+      "poderes": [
+        "Fuerza ilimitada",
+        "Regeneración acelerada",
+        "Resistencia extrema"
+      ],
+      "habilidades": [
+        "Lucha destructiva",
+        "Super resistencia",
+        "Enorme resistencia a daño"
+      ],
       "historia_comics": "Hulk debutó en 'The Incredible Hulk #1' en 1962, creado por Stan Lee y Jack Kirby.",
       "apariciones_cine": [
         "The Incredible Hulk (2008)",
         "Avengers: Endgame (2019)",
         "Avengers: Age of Ultron (2015)"
       ],
-      "curiosidades": ["El Hulk representa la furia y la ira de Bruce Banner", "Ha sido uno de los personajes más complejos del universo Marvel"],
+      "curiosidades": [
+        "El Hulk representa la furia y la ira de Bruce Banner",
+        "Ha sido uno de los personajes más complejos del universo Marvel"
+      ],
       "imagen": "https://m.media-amazon.com/images/I/71A+RlBsJRL._AC_UF894,1000_QL80_.jpg"
-    }
-  ],
-  "DC Comics": [
+    },
     {
+      "id": 6,
       "nombre": "Batman",
       "origen": "Bruce Wayne, Gotham City",
-      "poderes": ["Inteligencia superior", "Habilidades en combate cuerpo a cuerpo", "Uso avanzado de tecnología y gadgets"],
-      "habilidades": ["Detective experto", "Maestro estratega", "Habilidades de sigilo"],
+      "poderes": [
+        "Inteligencia superior",
+        "Habilidades en combate cuerpo a cuerpo",
+        "Uso avanzado de tecnología y gadgets"
+      ],
+      "habilidades": [
+        "Detective experto",
+        "Maestro estratega",
+        "Habilidades de sigilo"
+      ],
       "historia_comics": "Batman hizo su debut en 'Detective Comics #27' en 1939, creado por Bob Kane y Bill Finger.",
       "apariciones_cine": [
         "Batman Begins (2005)",
         "The Dark Knight (2008)",
         "Justice League (2017)"
       ],
-      "curiosidades": ["Bruce Wayne utiliza su fortuna para financiar su lucha contra el crimen", "Ha sido interpretado por varios actores, incluyendo a Christian Bale y Ben Affleck"],
-      "imagen":"https://bandai.com.mx/blog/wp-content/uploads/2019/09/Historia-de-Batman-el-superhe%CC%81roe-ma%CC%81s-popular-en-la-era-digital-copia-1.jpg"
+      "curiosidades": [
+        "Bruce Wayne utiliza su fortuna para financiar su lucha contra el crimen",
+        "Ha sido interpretado por varios actores, incluyendo a Christian Bale y Ben Affleck"
+      ],
+      "imagen": "https://bandai.com.mx/blog/wp-content/uploads/2019/09/Historia-de-Batman-el-superhe%CC%81roe-ma%CC%81s-popular-en-la-era-digital-copia-1.jpg"
     },
     {
+      "id": 7,
       "nombre": "Superman",
       "origen": "Krypton (nació como Kal-El), Ciudad de Metrópolis",
-      "poderes": ["Superfuerza", "Vuelo", "Visión láser", "Súper audición", "Invulnerabilidad"],
-      "habilidades": ["Habilidades de liderazgo", "Estrategia", "Altruismo"],
+      "poderes": [
+        "Superfuerza",
+        "Vuelo",
+        "Visión láser",
+        "Súper audición",
+        "Invulnerabilidad"
+      ],
+      "habilidades": [
+        "Habilidades de liderazgo",
+        "Estrategia",
+        "Altruismo"
+      ],
       "historia_comics": "Superman fue creado por Jerry Siegel y Joe Shuster, debutando en 'Action Comics #1' en 1938.",
       "apariciones_cine": [
         "Superman: The Movie (1978)",
         "Man of Steel (2013)",
         "Justice League (2017)"
       ],
-      "curiosidades": ["Superman es el primer superhéroe que surgió en los cómics", "Es conocido como el 'Hombre de Acero' debido a su invulnerabilidad"],
+      "curiosidades": [
+        "Superman es el primer superhéroe que surgió en los cómics",
+        "Es conocido como el 'Hombre de Acero' debido a su invulnerabilidad"
+      ],
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_1hGiywNn1GQBgVGNiF6HtiWvCFnjKgsQA&s"
     },
     {
+      "id": 8,
       "nombre": "Wonder Woman",
       "origen": "Temiscira (Isla de las Amazonas), hija de Zeus",
-      "poderes": ["Superfuerza", "Velocidad sobrehumana", "Vuelo", "Habilidad para usar el lazo de la verdad"],
-      "habilidades": ["Maestra en combate con espada y escudo", "Liderazgo", "Resistencia a daño"],
+      "poderes": [
+        "Superfuerza",
+        "Velocidad sobrehumana",
+        "Vuelo",
+        "Habilidad para usar el lazo de la verdad"
+      ],
+      "habilidades": [
+        "Maestra en combate con espada y escudo",
+        "Liderazgo",
+        "Resistencia a daño"
+      ],
       "historia_comics": "Wonder Woman debutó en 'All Star Comics #8' en 1941, creada por William Moulton Marston.",
       "apariciones_cine": [
         "Wonder Woman (2017)",
         "Batman v Superman: Dawn of Justice (2016)",
         "Justice League (2017)"
       ],
-      "curiosidades": ["Es un ícono feminista desde su creación", "Ha tenido múltiples series y adaptaciones cinematográficas"],
+      "curiosidades": [
+        "Es un ícono feminista desde su creación",
+        "Ha tenido múltiples series y adaptaciones cinematográficas"
+      ],
       "imagen": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_.jpg"
     },
     {
+      "id": 9,
       "nombre": "Flash",
       "origen": "Barry Allen, Central City",
-      "poderes": ["Supervelocidad", "Viaje en el tiempo", "Aceleración molecular"],
-      "habilidades": ["Reflejos mejorados", "Habilidad para correr sobre el agua", "Estratega"],
+      "poderes": [
+        "Supervelocidad",
+        "Viaje en el tiempo",
+        "Aceleración molecular"
+      ],
+      "habilidades": [
+        "Reflejos mejorados",
+        "Habilidad para correr sobre el agua",
+        "Estratega"
+      ],
       "historia_comics": "Flash debutó en 'Showcase #4' en 1956, creado por Robert Kanigher y Carmine Infantino.",
       "apariciones_cine": [
         "Justice League (2017)",
         "The Flash (2023)"
       ],
-      "curiosidades": ["Es el miembro más rápido de la Liga de la Justicia", "Ha tenido su propia serie de televisión exitosa"],
+      "curiosidades": [
+        "Es el miembro más rápido de la Liga de la Justicia",
+        "Ha tenido su propia serie de televisión exitosa"
+      ],
       "imagen": "https://resizing.flixster.com/Xh900nCMMSK7WMhD_DVfWkbRwlA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11904956_b_v8_aa.jpg"
     },
     {
+      "id": 10,
       "nombre": "Green Lantern",
       "origen": "Hal Jordan, Coast City",
-      "poderes": ["Control sobre el anillo de poder", "Creación de objetos a partir de energía verde", "Vuela en el espacio"],
-      "habilidades": ["Entrenamiento en combate", "Habilidades en liderazgo", "Resistencia a la magia"],
+      "poderes": [
+        "Control sobre el anillo de poder",
+        "Creación de objetos a partir de energía verde",
+        "Vuela en el espacio"
+      ],
+      "habilidades": [
+        "Entrenamiento en combate",
+        "Habilidades en liderazgo",
+        "Resistencia a la magia"
+      ],
       "historia_comics": "Green Lantern debutó en 'Showcase #22' en 1959, creado por John Broome y Gil Kane.",
       "apariciones_cine": [
         "Green Lantern (2011)",
         "Justice League (2017)"
       ],
-      "curiosidades": ["Es miembro de la Green Lantern Corps", "Su anillo de poder es uno de los objetos más poderosos en el universo DC"],
+      "curiosidades": [
+        "Es miembro de la Green Lantern Corps",
+        "Su anillo de poder es uno de los objetos más poderosos en el universo DC"
+      ],
       "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8176346_p_v8_ai.jpg"
     }
   ]
